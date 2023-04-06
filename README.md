@@ -1,7 +1,7 @@
 <h1 align="center">Hello and welcome to my profile! <br> My name is Soham Dey, and I'm excited to have you here. </h1>
 <h3 align="center">Code is my language, innovation is my culture</h3>
 <center>
-    <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1626229/screenshots/16311321/media/1f01f74a5ea533ec7e1ab279ebff3847.jpg">
+    <img align="right" alt="Coding" width="170" src="https://cdn.dribbble.com/users/1626229/screenshots/16311321/media/1f01f74a5ea533ec7e1ab279ebff3847.jpg">
 </center>
 
 
