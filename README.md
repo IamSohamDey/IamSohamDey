@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soham Dey</h1>
 <h3 align="center">Code is my language, innovation is my culture</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1626229/screenshots/16311321/media/1f01f74a5ea533ec7e1ab279ebff3847.jpg">
+<center>
+    <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1626229/screenshots/16311321/media/1f01f74a5ea533ec7e1ab279ebff3847.jpg">
+</center>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsohamdey&label=Profile%20views&color=0e75b6&style=flat" alt="iamsohamdey" /> </p>
