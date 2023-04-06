@@ -1,13 +1,8 @@
-<h1 align="center">Hello and welcome to my profile! <br> My name is Soham Dey, and I'm excited to have you here. </h1>
+<h1 align="center">Hi 👋, I'm Soham Dey</h1>
 <h3 align="center">Code is my language, innovation is my culture</h3>
-<center>
-    <img align="right" alt="Coding" width="170" src="https://cdn.dribbble.com/users/1626229/screenshots/16311321/media/1f01f74a5ea533ec7e1ab279ebff3847.jpg">
-</center>
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1626229/screenshots/16311321/media/1f01f74a5ea533ec7e1ab279ebff3847.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsohamdey&label=Profile%20views&color=0e75b6&style=flat" alt="iamsohamdey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsohamdey" alt="iamsohamdey" /></a> </p>
 
 - 🔭 I’m currently working on **License plate recognition system**
 
